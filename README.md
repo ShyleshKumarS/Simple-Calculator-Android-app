@@ -1,4 +1,4 @@
-"Simple-Calculator-Android-app" 
+#Simple-Calculator-Android-app
 
 
 Welcome to the Simple Calculator Android App repository! This mobile application provides basic arithmetic operations for convenient calculations on the go.
